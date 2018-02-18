@@ -1,2 +1,2 @@
 # PyUkol-Rimska-Cisla
-Code worthy of Spaghetti Flying Monster
+A code worthy of Spaghetti Flying Monster
